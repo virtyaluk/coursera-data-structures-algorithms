@@ -5,7 +5,7 @@
 - Course 3 - [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs?specialization=data-structures-algorithms) - [Certificate](https://www.coursera.org/account/accomplishments/verify/D4EZTNZ5ATXM)
 - Course 4 - [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings?specialization=data-structures-algorithms)
 - Course 5 - [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity)
-- Course 6 - [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes)
+- Course 6 - [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) - [Certificate](https://www.coursera.org/account/accomplishments/verify/5QGPB9XKACS7)
 
 ## :green_book: License
 
