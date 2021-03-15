@@ -1,4 +1,4 @@
-[Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by University of California San Diego and National Research University Higher School of Economics
+[Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by University of California San Diego and National Research University Higher School of Economics - [Certificate](https://www.coursera.org/account/accomplishments/specialization/G72HSXLPV9A8)
 
 - Course 1 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/WLDWN5BQS34C)
 - Course 2 - [Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/BMUSAKGNSU4P)
